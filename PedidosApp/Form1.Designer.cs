@@ -65,9 +65,9 @@
             this.chkUrgente.AutoSize = true;
             this.chkUrgente.Location = new System.Drawing.Point(13, 122);
             this.chkUrgente.Name = "chkUrgente";
-            this.chkUrgente.Size = new System.Drawing.Size(80, 17);
+            this.chkUrgente.Size = new System.Drawing.Size(64, 17);
             this.chkUrgente.TabIndex = 2;
-            this.chkUrgente.Text = "checkBox1";
+            this.chkUrgente.Text = "Urgente";
             this.chkUrgente.UseVisualStyleBackColor = true;
             // 
             // nudPeso
@@ -80,9 +80,19 @@
             // nudDistancia
             // 
             this.nudDistancia.Location = new System.Drawing.Point(13, 199);
+            this.nudDistancia.Maximum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            0});
             this.nudDistancia.Name = "nudDistancia";
             this.nudDistancia.Size = new System.Drawing.Size(120, 20);
             this.nudDistancia.TabIndex = 4;
+            this.nudDistancia.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
             // 
             // btnCalcular
             // 
@@ -92,15 +102,16 @@
             this.btnCalcular.TabIndex = 5;
             this.btnCalcular.Text = "Calcular";
             this.btnCalcular.UseVisualStyleBackColor = true;
+            this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
             // 
             // lblResultado
             // 
             this.lblResultado.AutoSize = true;
             this.lblResultado.Location = new System.Drawing.Point(13, 281);
             this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(55, 13);
+            this.lblResultado.Size = new System.Drawing.Size(13, 13);
             this.lblResultado.TabIndex = 6;
-            this.lblResultado.Text = "Resultado";
+            this.lblResultado.Text = "0";
             // 
             // Form1
             // 
