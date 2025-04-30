@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\pedidosapp\\pedidosapp\\historialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\historialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\pedidosapp\\pedidosapp\\historialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\historialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\pedidosapp\\pedidosapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +66,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "HistorialForm.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\HistorialForm.cs",
+              "RelativeDocumentMoniker": "PedidosApp\\HistorialForm.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\HistorialForm.cs",
+              "RelativeToolTip": "PedidosApp\\HistorialForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA2wC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T01:58:06.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistorialForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\HistorialForm.cs",
+              "RelativeDocumentMoniker": "PedidosApp\\HistorialForm.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\HistorialForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PedidosApp\\HistorialForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T01:54:58.72Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\Pedido.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Pedido.cs",
@@ -70,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EntregaFactory.cs",
               "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\EntregaFactory.cs",
               "RelativeDocumentMoniker": "PedidosApp\\EntregaFactory.cs",
@@ -82,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "EntregaCamion.cs",
               "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\EntregaCamion.cs",
               "RelativeDocumentMoniker": "PedidosApp\\EntregaCamion.cs",
@@ -94,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "EntregaMoto.cs",
               "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\EntregaMoto.cs",
               "RelativeDocumentMoniker": "PedidosApp\\EntregaMoto.cs",
@@ -106,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "EntregaDron.cs",
               "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\EntregaDron.cs",
               "RelativeDocumentMoniker": "PedidosApp\\EntregaDron.cs",
@@ -118,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\Form1.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Form1.cs",
@@ -130,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\Form1.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Form1.cs",
@@ -143,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "RegistroPedidos.cs",
               "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\RegistroPedidos.cs",
               "RelativeDocumentMoniker": "PedidosApp\\RegistroPedidos.cs",
@@ -155,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "IMetodoEntrega.cs",
               "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\IMetodoEntrega.cs",
               "RelativeDocumentMoniker": "PedidosApp\\IMetodoEntrega.cs",

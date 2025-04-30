@@ -28,5 +28,22 @@ namespace PedidosApp
                 Costo = p.ObtenerCosto()
             }).ToList();
         }
+
+        private void cmbFiltro_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string filtro = cmbFiltro.SelectedItem.ToString();
+            var pedidosFiltrados = RegistroPedidos.Instancia.Pedidos;
+
+            if (filtro != "Todos")
+                pedidosFiltrados = pedidosFiltrados.Where(p => p.MetodoEntrega.TipoEntrega() == filtro).ToList();
+
+            dgvPedidos.DataSource = pedidosFiltrados.Select(p => new
+            {
+                p.Cliente,
+                p.Producto,
+                Metodo = p.MetodoEntrega.TipoEntrega(),
+                Costo = p.ObtenerCosto()
+            }).ToList();
+        }
     }
 }

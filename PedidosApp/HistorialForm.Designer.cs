@@ -33,6 +33,7 @@
             this.Producto = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Metodo = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Costo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.cmbFiltro = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPedidos)).BeginInit();
             this.SuspendLayout();
             // 
@@ -48,7 +49,6 @@
             this.dgvPedidos.Name = "dgvPedidos";
             this.dgvPedidos.Size = new System.Drawing.Size(240, 150);
             this.dgvPedidos.TabIndex = 0;
-            this.dgvPedidos.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvPedidos_CellContentClick);
             // 
             // colCliente
             // 
@@ -74,11 +74,27 @@
             this.Costo.HeaderText = "Costo";
             this.Costo.Name = "Costo";
             // 
+            // cmbFiltro
+            // 
+            this.cmbFiltro.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbFiltro.FormattingEnabled = true;
+            this.cmbFiltro.Items.AddRange(new object[] {
+            "Dron",
+            "Motocicleta",
+            "Camion",
+            "Bicicleta "});
+            this.cmbFiltro.Location = new System.Drawing.Point(12, 213);
+            this.cmbFiltro.Name = "cmbFiltro";
+            this.cmbFiltro.Size = new System.Drawing.Size(121, 21);
+            this.cmbFiltro.TabIndex = 1;
+            this.cmbFiltro.SelectedIndexChanged += new System.EventHandler(this.cmbFiltro_SelectedIndexChanged);
+            // 
             // HistorialForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.cmbFiltro);
             this.Controls.Add(this.dgvPedidos);
             this.Name = "HistorialForm";
             this.Text = "HistorialForm";
@@ -94,5 +110,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Producto;
         private System.Windows.Forms.DataGridViewTextBoxColumn Metodo;
         private System.Windows.Forms.DataGridViewTextBoxColumn Costo;
+        private System.Windows.Forms.ComboBox cmbFiltro;
     }
 }
