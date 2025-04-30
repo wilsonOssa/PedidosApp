@@ -10,7 +10,9 @@ namespace PedidosApp
     {
         public static IMetodoEntrega CrearEntrega(string tipoProducto, bool urgente, double peso)
         {
-            if (tipoProducto == "tecnologia" && urgente)
+            if (tipoProducto == "accesorio" && !urgente && peso < 2)
+                return new EntregaBicicleta();
+            else if (tipoProducto == "tecnologia" && urgente)
                 return new EntregaDron();
             else if (tipoProducto == "accesorio")
                 return new EntregaMoto();
