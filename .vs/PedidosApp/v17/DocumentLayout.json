@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\pedidosapp\\pedidosapp\\historialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\historialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\pedidosapp\\pedidosapp\\historialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\historialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\pedidosapp\\pedidosapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\pedidosapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\pedidosapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\pedidosapp\\pedidosapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\pedidosapp\\historialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\historialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\pedidosapp\\historialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\historialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71F924CF-7501-4345-B52E-1753280EB934}|PedidosApp\\PedidosApp.csproj|C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\pedidosapp\\registropedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,28 +66,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HistorialForm.cs",
               "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\HistorialForm.cs",
               "RelativeDocumentMoniker": "PedidosApp\\HistorialForm.cs",
               "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\HistorialForm.cs",
               "RelativeToolTip": "PedidosApp\\HistorialForm.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAIA2wC4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAWwC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T01:58:06.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T01:58:06.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HistorialForm.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\HistorialForm.cs",
               "RelativeDocumentMoniker": "PedidosApp\\HistorialForm.cs",
               "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\HistorialForm.cs [Dise\u00F1o]",
               "RelativeToolTip": "PedidosApp\\HistorialForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T01:54:58.72Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-04-30T01:54:58.72Z"
             },
             {
               "$type": "Document",
@@ -151,25 +149,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\Form1.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\Form1.cs [Design]",
-              "RelativeToolTip": "PedidosApp\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PedidosApp\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T17:54:54.297Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\Form1.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Form1.cs",
               "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\PedidosApp\\PedidosApp\\Form1.cs",
               "RelativeToolTip": "PedidosApp\\Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAD4vzUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T18:58:23.847Z",
               "EditorCaption": ""

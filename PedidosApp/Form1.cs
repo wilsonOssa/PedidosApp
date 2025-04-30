@@ -43,5 +43,11 @@ namespace PedidosApp
                 MessageBox.Show("Error: " + ex.Message);
             }
         }
+
+        private void btnHistorial_Click(object sender, EventArgs e)
+        {
+            HistorialForm historial = new HistorialForm();
+            historial.ShowDialog();
+        }
     }
 }

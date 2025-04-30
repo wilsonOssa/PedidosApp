@@ -35,6 +35,7 @@
             this.nudDistancia = new System.Windows.Forms.NumericUpDown();
             this.btnCalcular = new System.Windows.Forms.Button();
             this.lblResultado = new System.Windows.Forms.Label();
+            this.btnHistorial = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.nudPeso)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudDistancia)).BeginInit();
             this.SuspendLayout();
@@ -113,11 +114,22 @@
             this.lblResultado.TabIndex = 6;
             this.lblResultado.Text = "0";
             // 
+            // btnHistorial
+            // 
+            this.btnHistorial.Location = new System.Drawing.Point(16, 317);
+            this.btnHistorial.Name = "btnHistorial";
+            this.btnHistorial.Size = new System.Drawing.Size(75, 23);
+            this.btnHistorial.TabIndex = 7;
+            this.btnHistorial.Text = "Ver Historial";
+            this.btnHistorial.UseVisualStyleBackColor = true;
+            this.btnHistorial.Click += new System.EventHandler(this.btnHistorial_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnHistorial);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.btnCalcular);
             this.Controls.Add(this.nudDistancia);
@@ -143,6 +155,7 @@
         private System.Windows.Forms.NumericUpDown nudDistancia;
         private System.Windows.Forms.Button btnCalcular;
         private System.Windows.Forms.Label lblResultado;
+        private System.Windows.Forms.Button btnHistorial;
     }
 }
 
